@@ -1,12 +1,8 @@
 ﻿using System;
-
-namespace ShanCoin
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+namespace ShanCoin {
+    public class Program {
+        static void Main (string[] args) {
+            Console.WriteLine ("Hello World!");
         }
     }
 }

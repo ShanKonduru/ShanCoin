@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ShanCoin\\ShanCoin.csproj": {}
+    "C:\\ShanCoin\\ShanCoin.csproj": {}
   },
   "projects": {
-    "c:\\ShanCoin\\ShanCoin.csproj": {
+    "C:\\ShanCoin\\ShanCoin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ShanCoin\\ShanCoin.csproj",
+        "projectUniqueName": "C:\\ShanCoin\\ShanCoin.csproj",
         "projectName": "ShanCoin",
-        "projectPath": "c:\\ShanCoin\\ShanCoin.csproj",
+        "projectPath": "C:\\ShanCoin\\ShanCoin.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "c:\\ShanCoin\\obj\\",
+        "outputPath": "C:\\ShanCoin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"

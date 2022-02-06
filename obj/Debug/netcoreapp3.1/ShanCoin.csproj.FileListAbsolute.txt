@@ -1,0 +1,13 @@
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.exe
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.deps.json
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.runtimeconfig.json
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.runtimeconfig.dev.json
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.dll
+C:\ShanCoin\bin\Debug\netcoreapp3.1\ShanCoin.pdb
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.csprojAssemblyReference.cache
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.AssemblyInfoInputs.cache
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.AssemblyInfo.cs
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.csproj.CoreCompileInputs.cache
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.dll
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.pdb
+C:\ShanCoin\obj\Debug\netcoreapp3.1\ShanCoin.genruntimeconfig.cache

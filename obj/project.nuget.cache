@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aPdgB1fImS4ilJIUmc+Xs4SuLpgzCad9ErjDK3jrmbiTq32q+eFY5fnX79pO0D5YF9BQQfM/JxeqjEFUqr+N1w==",
+  "dgSpecHash": "XVMPj9zrolxApvFE1RGcF6db6omo8OZmHdiO8AIws9qcYf6WXi3Lcuhj9UCPHY7G9bsgXbf0rtxAiZDTXfxnNw==",
   "success": true,
-  "projectFilePath": "c:\\ShanCoin\\ShanCoin.csproj",
+  "projectFilePath": "C:\\ShanCoin\\ShanCoin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
