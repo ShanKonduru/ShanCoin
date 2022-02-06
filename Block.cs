@@ -16,9 +16,9 @@ namespace ShanCoin {
         public DateTime TimeStamp { get; }
 
         public override string ToString () {
-            return string.Format ("{0}\r\n{1}\r\n{2}\r\n{3}",
-                BitConverter.ToString (Hash),
-                BitConverter.ToString (PrevHash),
+            return string.Format ("{0}\r\n{1}\r\nNonce: {2}\r\nTime Stamp: {3}",
+                BitConverter.ToString (Hash).Replace("-", ""),
+                BitConverter.ToString (PrevHash).Replace("-", ""),
                 Nonce,
                 TimeStamp.ToString (ShanCoin.Utilities.CONSTS.DATETIME_FORMAT));
         }
