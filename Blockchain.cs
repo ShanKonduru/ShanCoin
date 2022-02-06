@@ -8,7 +8,7 @@ namespace ShanCoin {
         private List<IBlock> _items = new List<IBlock> ();
         public Blockchain (byte[] difficulty, IBlock genesis) {
             Difficulty = difficulty;
-            genesis.Hash = genesis.MineBlock (difficulty);
+            genesis.Hash = genesis.MineHash (difficulty);
             Items.Add (genesis);
         }
 
@@ -22,7 +22,7 @@ namespace ShanCoin {
 
         public int Count => Items.Count;
 
-        public IBlock this [index] {
+        public IBlock this [int index] {
             get => Items[index];
             set => Items[index] = value;
         }
